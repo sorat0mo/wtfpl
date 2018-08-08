@@ -1,2 +1,4 @@
-# wtfpl
-A collection of WTFPL
+# WTFPL repository
+
+## What is this?
+This is a repo for WTFPL.
