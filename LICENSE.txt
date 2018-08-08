@@ -1,7 +1,9 @@
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 3, December 2004
+                    Version 3, December 2018
 
  Copyright (C) 2018 Karsten Ng <ngkarsten@protonmail.com>
+ 
+ The online version of this document is available at  <thisiskarsten.github.io/wtfpl>
 
  YOU are permitted to copy, change, distribute verbatim or modified
  copies of this license document.
