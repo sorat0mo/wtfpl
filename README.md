@@ -18,7 +18,7 @@ I hope to provide a way for people to revise all historic versions of WTFPL. Thi
 
  Copyright (C) 2018 Karsten Ng <ngkarsten@protonmail.com>
  
- The online version of this document is available at  <thisiskarsten.github.io/wtfpl>
+ The online version of this document is available at <thisiskarsten.github.io/wtfpl>
 
  YOU are permitted to copy, change, distribute verbatim or modified
  copies of this license document.
