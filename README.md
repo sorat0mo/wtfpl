@@ -12,7 +12,7 @@ I hope to provide a way for people to revise all historic versions of WTFPL. Thi
 [The original WTFPL official website, wtfpl.net](http://www.wtfpl.net/)
 
 ## License
-`
+```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 3, December 2004
 
@@ -28,4 +28,4 @@ I hope to provide a way for people to revise all historic versions of WTFPL. Thi
   1. If distributing or changing the licensed content, you are ADVISED
      but ARE NOT REQUIRED to license the modified and/or the distributed
 content under the same license.
-`
+```
