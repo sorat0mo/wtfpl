@@ -12,7 +12,8 @@ I hope to provide a way for people to revise all historic versions of WTFPL. Thi
 [The original WTFPL official website, wtfpl.net](http://www.wtfpl.net/)
 
 ## License
-```            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+```
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 3, December 2018
 
  Copyright (C) 2018 Karsten Ng <ngkarsten@protonmail.com>
